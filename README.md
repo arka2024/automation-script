@@ -1,3 +1,4 @@
 # automation-script
 
-bisal
+<<bisal>>
+mat kar lalala
